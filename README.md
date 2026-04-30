@@ -163,6 +163,8 @@ streamlit run app.py
 * Clean and user-friendly interface
 
 ---
+## 🌐 Live Demo
+https://customer-churn-prediction-28mkzaraqe23xpzfjtcqmr.streamlit.app/
 
 
 
